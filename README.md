@@ -184,7 +184,6 @@ Essa classificação final fornece uma visão sintética e acionável do nível 
 - Clientes com histórico de atraso no pagamento, com taxa de inadimplência de 30,59% (191 vezes maior do que os clientes sem histórico de atraso).
 - Com faixas salariais baixas, com taxa de inadimplência de 2,75% (taxa até 3,39 vezes maior do que os clientes com salários mais altos).
 - Endividamento médio-alto (endividamento mediano de 50,45%) e alto (endividamento mediano de 77.325 %) , com taxas de inadimplência de 2,25% e 1,87% respectivamente.
-- Clientes com dependentes? Perguntar ao chat como expor isso!
 
 #### 9.2 Perfis de risco
 
