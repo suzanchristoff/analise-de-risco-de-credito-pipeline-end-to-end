@@ -31,12 +31,6 @@ Este projeto desenvolve um pipeline analítico completo para avaliação de risc
 - Desenvolver uma pontuação de risco (score de crédito) que permita avaliar e classificar o risco de crédito individual de cada cliente com base em suas características financeiras e comportamentais.
 - Criar um pipeline de dados reproduzível usando DuckDB e SQL.
 
-## Hipóteses levantadas
-
-1. Pessoas mais jovens correm maior risco de não pagamento
-2. Pessoas com mais empréstimos ativos têm maior risco de inadimplência
-3. Pessoas que atrasaram pagamentos por mais de 90 dias têm maior risco de inadimplência
-
 ---
 
 ## 4. Fonte de dados
